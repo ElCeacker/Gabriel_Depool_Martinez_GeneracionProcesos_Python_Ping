@@ -1,0 +1,3 @@
+importo las clases platform y subprocess.
+Hago un método llamado myPing en el que inicializo un parametro llamado parameter en el que contiene el nombre del sistema y luego inicializo otro llamado command en el que estará el comnado ping, el parameter, las veces que quiero que haga el ping y por último el host.
+luego utilizo de la clase subprocess el método call y le paso como parámetro "command" y lo retorno
